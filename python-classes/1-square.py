@@ -8,7 +8,7 @@ A Square Class
 
 class Square:
     """
-    The objetive of this class is learning to do a private instance attribute.
+    The objetive of this class is learning.
     """
     def __init__(self, size):
         self.__size = size

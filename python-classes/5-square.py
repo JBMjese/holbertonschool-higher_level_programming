@@ -6,7 +6,7 @@ A class to represent a square.
 
 """
 class Square:
-    """The objective of this class is to represent a square and provide functionality for handling its size and calculating its area.
+    """The objective of this class is to represent.
     """
     def __init__(self, size=0):
         """
