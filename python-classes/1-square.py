@@ -1,4 +1,11 @@
 #!/usr/bin/python3
+"""Square Class
+
+A Square Class
+
+"""
+
+
 class Square:
     """
     The objetive of this class is learning to do a private instance attribute.
