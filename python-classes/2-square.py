@@ -10,22 +10,7 @@ class Square:
     """
     The objective of this class is to represent a square and provide functionality
     """
-
     def __init__(self, size=0):
-        """__init__
-
-        The __init__ method initializes the size value of the square.
-
-        Attributes:
-            size (:obj:`int`, optional): The size of the square.
-
-        Raises:
-            TypeError: If `size` type is not `int`.
-
-            ValueError: If `size` is less than `0`.
-
-        """
-
         if not isinstance(size, int):
             raise TypeError("size must be an integer")
         if size < 0:
