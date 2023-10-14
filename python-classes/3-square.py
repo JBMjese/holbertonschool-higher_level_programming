@@ -5,6 +5,8 @@
 
     """
 class Square:
+    """The objective of this class is to handle a private instance attribute
+    """
     def __init__(self, size=0):
         """__init__
 

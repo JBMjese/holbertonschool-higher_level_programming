@@ -1,11 +1,12 @@
 #!/usr/bin/python3
+"""Square Class
+
+A Square Class
+
+"""
 class Square:
-    """Square Class
-
-    A Square Class
-
+    """The objective of this class is to represent a square and provide functionality for handling its size and position
     """
-
     def __init__(self, size=0, position=(0, 0)):
         """__init__
 
