@@ -8,7 +8,7 @@ A Square Class
 
 class Square:
     """
-    The objective of this class is to represent a square and provide functionality
+    The objective of this class is to represent
     """
     def __init__(self, size=0):
         if not isinstance(size, int):
