@@ -5,7 +5,7 @@
 
     """
 
-    
+ 
 class Square:
     """The objective of this class is to handle.
     """

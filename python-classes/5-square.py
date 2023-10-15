@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Square Class
-    
+  
 A class to represent a square.
 
 """
