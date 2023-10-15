@@ -5,6 +5,8 @@ Square Class
 A class to represent a square.
 
 """
+
+
 class Square:
     """The objective of this class is to represent.
     """

@@ -6,7 +6,7 @@ A Square Class
 """
 
 
-class Square: 
+class Square:
     """The objective of this class is to represent.
     """
     def __init__(self, size=0, position=(0, 0)):
