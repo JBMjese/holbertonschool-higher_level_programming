@@ -4,8 +4,8 @@
     A Square Class
 
     """
- 
-   
+
+  
 class Square:
     """The objective of this class is to represent
     """
