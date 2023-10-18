@@ -285,4 +285,3 @@ class Rectangle:
         h = str(eval('self.height'))
 
         return 'Rectangle(' + w + ', ' + h + ')'
-    
