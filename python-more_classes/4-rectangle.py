@@ -129,4 +129,4 @@ class Rectangle:
             :obj:`str`: An official string representing the rectangle.
         """
         return "Rectangle({}, {})".format(self.__width, self.__height)
-            
+                
