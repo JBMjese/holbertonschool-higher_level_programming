@@ -4,7 +4,7 @@
 if __name__ == "__main__":
     import sys
     """Print the number of and list of arguments."""
-    count = len(sys.argv) -1
+    count = int(len(sys.argv) -1)
     if count == 0:
         print("{} arguments.".format(count))
     elif count == 1:
