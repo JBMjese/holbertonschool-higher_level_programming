@@ -20,7 +20,6 @@ if __name__ == "__main__":
 
     searched_name = sys.argv[4]
 
-    # By default, it will connect to localhost:3306
     db = MySQLdb.connect(user=mySQL_u, passwd=mySQL_p, db=db_name)
     cur = db.cursor()
 
