@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 This module defines the City class that represents a table in the database.
 """
