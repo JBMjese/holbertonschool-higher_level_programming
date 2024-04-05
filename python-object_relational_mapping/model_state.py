@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Start link class to table in database
+"""This is the State module.
+
+Contains the State class that inherits from Base = declarative_base()
 """
 
 import sys
