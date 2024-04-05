@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Prints the first State object from the database hbtn_0e_6_usa.
+""" Changes the name of the State object with id.
  Usage: ./12-model_state_update_id_2.py <mysql username>
                                         <mysql password>
                                         <database name>

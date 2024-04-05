@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Prints the first State object from the database hbtn_0e_6_usa.
+""" Adds state object "Louisiana" to the database
  Usage: ./11-model_state_insert.py     <mysql username>
                                        <mysql password>
                                        <database name>

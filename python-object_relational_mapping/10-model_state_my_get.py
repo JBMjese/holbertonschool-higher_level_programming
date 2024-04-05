@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Prints the first State object from the database hbtn_0e_6_usa.
+""" List the state object with the name passed as argument
  Usage: ./10-model_state_my_get.py     <mysql username>
                                        <mysql password>
                                        <database name>
